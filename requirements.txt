@@ -1,3 +1,4 @@
 
-streamlit==0.81.1
+streamlit==0.82.0
 sympy==1.7.1
+PyQRCode==1.2.1
