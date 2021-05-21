@@ -9,8 +9,7 @@ Original file is located at
 
 import pyqrcode
 import streamlit as st
-import io
-import numpy as np
+
 
 def generateQR(text):
     qrText = pyqrcode.create(content = text)
